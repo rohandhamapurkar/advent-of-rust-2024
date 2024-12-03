@@ -1,0 +1,11 @@
+bin = [
+	{ name = "day1", path = "challenges/day1.rs" },
+	{ name = "day2", path = "challenges/day2.rs" },
+	{ name = "day3", path = "challenges/day3.rs" },
+]
+[package]
+name = "advent-of-rust-2024"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
