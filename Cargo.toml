@@ -4,6 +4,7 @@ bin = [
 	{ name = "day3", path = "challenges/day3.rs" },
 	{ name = "day4", path = "challenges/day4.rs" },
 	{ name = "day5", path = "challenges/day5.rs" },
+	{ name = "day6", path = "challenges/day6.rs" },
 ]
 [package]
 name = "advent-of-rust-2024"
